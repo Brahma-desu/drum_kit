@@ -67,7 +67,6 @@ function App() {
         <button className="j drum" onClick={() => setValue("j")}>j</button>
         <button className="k drum" onClick={() => setValue("k")}>k</button>
         <button className="l drum" onClick={() => setValue("l")}>l</button>
-        {/* <button className='m drum' onClick={() => setValue("m")}>M</button> */}
       </div>
     </div>
   );
